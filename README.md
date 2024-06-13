@@ -12,4 +12,5 @@
 - PHP Symfony
 - Node JS
 - ~~bash~~
+- CSS
 - ...
